@@ -1,7 +1,7 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=header"/>
 
- <h2 align="center">Olá, eu sou a Mirelly Araújo,</h2>
+ <h2 align="center">Olá, eu sou a Mirelly Araújo.</h2>
   <h4 align="center">Bem vindos! 🤗 </h4>
 
 
